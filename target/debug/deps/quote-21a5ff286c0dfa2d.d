@@ -1,0 +1,13 @@
+D:\sts-ws\template_askama\target\debug\deps\quote-21a5ff286c0dfa2d.rmeta: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+D:\sts-ws\template_askama\target\debug\deps\libquote-21a5ff286c0dfa2d.rlib: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+D:\sts-ws\template_askama\target\debug\deps\quote-21a5ff286c0dfa2d.d: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs:

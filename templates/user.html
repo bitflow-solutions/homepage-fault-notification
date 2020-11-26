@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>하이, {{ name }}!</h1>
+<p>
+  {{ text }}
+</p>
+<textarea id="synapEditor" name="content"></textarea>
+<script>
+  var editor;
+  function initEditor() {
+    editor = new SynapEditor('synapEditor', synapEditorConfig);
+    editor.setEventListener('beforeUploadImage', function (e) {
+      console.log("beforeUploadImage " + JSON.stringify(e));
+    });
+    editor.setEventListener('afterUploadImage', function (e) {
+      console.log('afterUploadImage ' + JSON.stringify(e));
+    });
+    editor.setEventListener('beforeOpenDocument', function (e) {
+      console.log("beforeOpenDocument " + JSON.stringify(e));
+    });
+  }
+  initEditor();
+</script>
+{% endblock content %}

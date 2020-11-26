@@ -1,0 +1,11 @@
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\futures_channel-2f0ba72b644c6a1b.rmeta: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lock.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\mod.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\queue.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\oneshot.rs
+
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\libfutures_channel-2f0ba72b644c6a1b.rlib: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lock.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\mod.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\queue.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\oneshot.rs
+
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\futures_channel-2f0ba72b644c6a1b.d: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lock.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\mod.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\queue.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\oneshot.rs
+
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lib.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\lock.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\mod.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\mpsc\queue.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.7\src\oneshot.rs:

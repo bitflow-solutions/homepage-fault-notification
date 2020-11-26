@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\sts-ws\template_askama\target\debug\build\typenum-1c8e102c914194d8\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\sts-ws\template_askama\target\debug\build\typenum-1c8e102c914194d8\out\op.rs

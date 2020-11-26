@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>DB금융투자 온라인매뉴얼</title>
+    <link href="/static/img/favicon.ico" rel="shortcut icon" type="image/ico" />
+    <link rel="stylesheet" href="/static/css/noto-sans-kr.css">
+    <link rel="stylesheet" href="/static/css/foundation.min.css">
+    <link rel="stylesheet" href="/static/css/global.css">
+    <link rel="stylesheet" href="/static/synapeditor/synapeditor.min.css">
+    <style>
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Noto Sans Korean", "맑은 고딕", "돋움", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+            font-weight: 400;
+        }
+        .menu>li {
+            display: inline-block;
+        }
+    </style>
+    <script src="/static/synapeditor/synapeditor.config.js"></script>
+    <script src="/static/synapeditor/synapeditor.min.js"></script>
+    <script src="/static/synapeditor/externals/SEDocModelParser/SEDocModelParser.min.js"></script>
+    <script src="/static/synapeditor/externals/SEShapeManager/SEShapeManager.min.js"></script>
+</head>
+<body>
+
+<div class="grid-y medium-grid-frame">
+
+    <!-- Navigation -->
+    <div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small" style="display: none;">
+        <button class="menu-icon" type="button" data-toggle></button>
+        <div class="title-bar-title">Menu</div>
+    </div>
+
+    <div>
+        <div class="top-bar">
+            <div class="top-bar-left">
+                <ul class="menu" data-responsive-menu="accordion">
+                    <li class="menu-text">
+                        <div class="logo-img"></div>
+                        <div class="logo-text">온라인매뉴얼</div>
+                    </li>
+                    <li class=""><a href="/group">도움말그룹</a></li>
+                    <li class="is-active"><a href="/content">도움말작성</a></li>
+                    <li class=""><a href="/release">배포관리</a></li>
+                </ul>
+            </div>
+            <div class="top-bar-right">
+                <ul class="menu">
+                    <li><a class="button secondary hollow" data-open="bf-modal-user">님</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- /Navigation -->
+    </div>
+
+    <div class="bf-body-wrapper">
+        {% block content %}
+        {% endblock content %}
+    </div>
+
+    <div class="cell shrink footer">
+        <div class="grid-x">
+            <div class="footer-text cell small-12 text-center">© 2020 DB금융투자 Co., Ltd.</div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

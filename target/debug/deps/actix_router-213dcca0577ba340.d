@@ -1,0 +1,12 @@
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\actix_router-213dcca0577ba340.rmeta: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src/lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\de.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\path.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\resource.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\router.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\url.rs
+
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\libactix_router-213dcca0577ba340.rlib: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src/lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\de.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\path.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\resource.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\router.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\url.rs
+
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\actix_router-213dcca0577ba340.d: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src/lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\de.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\path.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\resource.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\router.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\url.rs
+
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src/lib.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\de.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\path.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\resource.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\router.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.5\src\url.rs:

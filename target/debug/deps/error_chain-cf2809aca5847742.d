@@ -1,0 +1,11 @@
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\error_chain-cf2809aca5847742.rmeta: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\liberror_chain-cf2809aca5847742.rlib: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+D:\sts-ws\ui-hompage-fault-notification\target\debug\deps\error_chain-cf2809aca5847742.d: C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs:
+C:\Users\metho\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs:
